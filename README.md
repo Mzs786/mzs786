@@ -1,53 +1,42 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mzs786.mzs786&style=flat-square&color=0088cc" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mzs786.Mzs786" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=0088CC&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Md+Zubair+Saleem!;" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Zubair+Saleem!;" />
 </h1>
 
-<h3 align="center">Full Stack Developer | Cloud Solutions Engineer</h3>
-
----
-
-### 🛠️ Technical Toolkit
+<h3 align="center">A Passionate Software Developer</h3>
 
 <div align="center">
-  
-**Frontend Development**  
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
-
-**Backend Development**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-
-**Databases & Cloud**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-
+  <p>🔭 I’m currently working on <strong>an AI-powered Chatbot</strong></p>
+  <p>🌱 I’m currently learning <strong>Docker, Supabase, AWS</strong></p>
+  <p>💬 Ask me about <strong>Node.js, React, Firebase... or anything <a href="https://github.com/Mzs786/Mzs786/issues">here</a></strong></p>
+  <p>⚡ Fun fact: <em>Game of Thrones Night's Watch cloaks are made from Ikea rugs</em></p>
 </div>
 
----
-
-### 📈 Development Insights
-
-<div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=transparent&hide_title=true&hide_border=true) | ![Streak Stats](https://streak-stats.demolab.com?user=mzs786&theme=transparent&hide_border=true&background=FFFFFF00) |
-|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-
+<div align="center"> 
+  <a href="mailto:pedro.sales.mdzubairsaleem786@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-zubair" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
----
+<hr/>
 
-### 🤝 Let's Connect
-
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<br/>
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-sales-zubair)
-[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.sales.mdzubairsaleem786@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mzs786)
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mzs786&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzs786&layout=compact&theme=radical" />
 </div>
