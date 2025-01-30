@@ -1,44 +1,40 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mzs786.mzs786" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Md+Zubair+Saleem!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Md+Zubair+Saleem!" />
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Passionate about AI & Cloud Technologies ☁️</h3>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mzs786&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+<h3 align="center">🚀 Full-Stack Developer | AI Enthusiast | Cloud Aficionado ☁️</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on an AI-powered Chatbot using Python and NLP libraries like Transformers to help users learn basic conversational Urdu.
-- 🌱 I’m currently learning Docker to streamline my development and deployment processes, Supabase for its ease of use as a Postgres backend, and AWS to gain experience with cloud infrastructure and deployment.
-- 👯 I’m looking to collaborate on innovative web projects, particularly those involving AI or cloud technologies.
+- 🌟 **Passionate Developer**: My journey began with a simple "Hello World" and has blossomed into a love affair with code, particularly in AI and cloud technologies.
+- 🔭 **Current Project**: Crafting an AI-powered **Urdu Conversational Chatbot** using Python and Transformers to help bridge language barriers.
+- 🌱 **Learning Horizons**:
+  - **Docker**: Streamlining development and deployment.
+  - **Supabase**: Leveraging effortless PostgreSQL backends.
+  - **AWS**: Diving deep into cloud infrastructure.
+- 🎯 **Goals**: Aiming to revolutionize language learning apps and contribute to open-source AI projects.
+- 📚 **Beyond Code**: When I'm not coding, I'm exploring the intersection of technology and linguistics, and how AI can bring people closer.
 
 ---
-
-### 🛠️ Projects
-
-*   **Project Title 1:** (1-2 sentence description of the project and its purpose). Technologies used: React, Node.js, MongoDB.  [GitHub Repo](Link to repo) | [Live Demo](Link to demo)
-*   **Project Title 2:** (1-2 sentence description of the project and its purpose). Technologies used: Python, Flask, PostgreSQL. [GitHub Repo](Link to repo)
-*   *(Add more projects as needed)*
-
----
-
 
 ### 📫 Connect with Me
+
 <p align="center">
-    <a href="mdzubairsaleem786@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <a href="mailto:mdzubairsaleem786@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/mdzubairsaleem" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/mzs786" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://mdzubairsaleem.com" target="_blank">
+        <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
 </p>
 
@@ -46,24 +42,56 @@
 
 <h2 align="center">⚒️ Tech Stack & Tools</h2>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,python,java,c,flask,mongodb,mysql,firebase" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,figma,vscode,git,github,r,docker,aws" />
-</p>
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,bootstrap,tailwind,mui" />
+    </td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+    </td>
+  </tr>
+  <tr>
+    <th>Cloud & DevOps</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker" />
+    </td>
+  </tr>
+  <tr>
+    <th>Others</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,r" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs786&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs786&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs786&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 Let's Build Something Amazing!
+
 <p align="center">
-    <i>Open for collaborations and exciting projects!</i> 🌟<br/>
-    <i>Feel free to explore my repositories and reach out!</i> 😊
+    <i>Excited to collaborate on AI and cloud projects that make a difference! 🌟</i><br/>
+    <i>Feel free to explore my repositories and reach out. Let's connect and create something impactful together! 😊</i>
 </p>
+
+---
