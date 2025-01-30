@@ -1,96 +1,63 @@
 <div align="center">
-  
-# Md Zubair Saleem  
-**Full Stack Developer | Cloud Solutions Specialist**  
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/pedro-sales-zubair)
-[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-4285F4?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
-  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Zubair+Saleem;Full+Stack+Developer;AI+Enthusiast;Cloud+Native+Builder" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mzs786&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Follow%20%40me-1DA1F2?logo=twitter&logoColor=white"/></a>
 </div>
 
 ---
 
-### 🚀 Core Competencies
-
-**Backend Development**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?logo=json&logoColor=white)
-
-**Frontend Development**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
----
-
-### 📌 Career Highlights
-
-- **Lead Developer** @ Tech Corp (2022-Present)  
-  » Built cloud-native SaaS platform handling 50K+ daily users  
-  » Reduced API response time by 65% through query optimization
-
-- **Full Stack Engineer** @ StartupX (2020-2022)  
-  » Developed AI-powered recommendation engine boosting conversions by 40%  
-  » Implemented CI/CD pipeline reducing deployment time by 75%
-
-- **Education**: BSc Computer Science - University of Tech (2016-2020)
-
----
-
-### 🏆 Technical Recognition
+### 🛠️ Tech Stack
 
 <div align="center">
   
-![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?logo=amazonaws)
-![LeetCode](https://img.shields.io/badge/LeetCode-Top%205%25-FFA116?logo=leetcode)
-![GitHub Contributions](https://img.shields.io/badge/GitHub-1500%2B%20Contributions-181717?logo=github)
+| **Category**       | **Technologies**                                                                                                                                                                                                                                                                 |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frontend**       | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)                             |
+| **Backend**        | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)                |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
+| **Databases**      | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)           |
 
 </div>
 
 ---
 
-### 📈 Development Activity
+### 📊 GitHub Analytics
 
 <div align="center">
   
-[![Code Streak](https://streak-stats.demolab.com?user=mzs786&theme=graywhite)](https://git.io/streak-stats)
-
-| **Metrics**       | **Stats**                          |
-|--------------------|------------------------------------|
-| Code Experience   | 4+ years professional development  |
-| Systems Deployed  | 15+ production systems             |
-| Code Reviews      | 200+ PRs reviewed                  |
-| Mentorship        | Guided 5 junior developers         |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000) | ![Streak Stats](https://streak-stats.demolab.com?user=mzs786&theme=transparent&hide_border=true&background=FFFFFF00) |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzs786&layout=compact&theme=transparent&hide_border=true)            | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mzs786&theme=react&hide_border=true)             |
 
 </div>
 
 ---
 
-### 💼 Project Spotlight
-
-**AI Customer Support Platform**  
-» Tech Stack: React + Node.js + TensorFlow + AWS Lambda  
-» Reduced support tickets by 60% through NLP implementation  
-» [Live Demo](https://demo.com) | [GitHub Repo](https://github.com/yourrepo)
-
-**E-commerce Analytics Dashboard**  
-» Tech Stack: TypeScript + Next.js + PostgreSQL  
-» Processed 1M+ daily transactions with real-time visualization  
-» [Case Study](https://case-study.com)
-
----
-
-### 📫 Let's Connect
+### 🏆 Notable Projects
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?logo=protonmail)](mailto:contact@yourdomain.com)
-[![Calendly](https://img.shields.io/badge/Schedule%20Call-CALENDLY-006BFF?logo=googlecalendar)](https://calendly.com/yourprofile)
-[![Resume](https://img.shields.io/badge/Download%20Resume-PDF-EC1C24?logo=adobeacrobatreader)](https://yourdomain.com/resume.pdf)
+[![AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=mzs786&repo=ai-chatbot&theme=transparent&show_owner=true)](https://github.com/mzs786/ai-chatbot)
+[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=mzs786&repo=ecommerce-platform&theme=transparent&show_owner=true)](https://github.com/mzs786/ecommerce-platform)
 
+</div>
+
+---
+
+### 📬 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-sales-zubair)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.sales.mdzubairsaleem786@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/mzs786/mzs786/main/snake.svg" alt="Snake animation" />
 </div>
