@@ -18,16 +18,15 @@
 - 🌱 I’m currently learning **Docker 🐳, Supabase 🔥, and AWS ☁️**
 - 👯 I’m looking to collaborate on **innovative web projects**
 - 💬 Ask me about **Node.js, React, Firebase, or anything [here](https://github.com/mzs786/mzs786/issues)**
-- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from IKEA rugs!** 🛋️⚔️
 
 ---
 
 ### 📫 Connect with Me
 <p align="center">
-    <a href="mailto:pedro.sales.mdzubairsaleem786@gmail.com">
+    <a href="mdzubairsaleem786@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/pedro-sales-zubair" target="_blank">
+    <a href="https://www.linkedin.com/in/mdzubairsaleem" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/mzs786" target="_blank">
