@@ -14,11 +14,20 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **an AI-powered Chatbot 🤖**
-- 🌱 I’m currently learning **Docker 🐳, Supabase 🔥, and AWS ☁️**
-- 👯 I’m looking to collaborate on **innovative web projects**
+- 🔭 I’m currently working on an AI-powered Chatbot using Python and NLP libraries like Transformers to help users learn basic conversational Urdu.
+- 🌱 I’m currently learning Docker to streamline my development and deployment processes, Supabase for its ease of use as a Postgres backend, and AWS to gain experience with cloud infrastructure and deployment.
+- 👯 I’m looking to collaborate on innovative web projects, particularly those involving AI or cloud technologies.
 
 ---
+
+### 🛠️ Projects
+
+*   **Project Title 1:** (1-2 sentence description of the project and its purpose). Technologies used: React, Node.js, MongoDB.  [GitHub Repo](Link to repo) | [Live Demo](Link to demo)
+*   **Project Title 2:** (1-2 sentence description of the project and its purpose). Technologies used: Python, Flask, PostgreSQL. [GitHub Repo](Link to repo)
+*   *(Add more projects as needed)*
+
+---
+
 
 ### 📫 Connect with Me
 <p align="center">
@@ -48,13 +57,13 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs786&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🚀 Let's Build Something Amazing!
 <p align="center">
-  <i>Open for collaborations and exciting projects!</i> 🌟<br/>
-  <i>Feel free to explore my repositories and reach out!</i> 😊
+    <i>Open for collaborations and exciting projects!</i> 🌟<br/>
+    <i>Feel free to explore my repositories and reach out!</i> 😊
 </p>
