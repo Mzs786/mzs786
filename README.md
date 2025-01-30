@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🌟 **Passionate Developer**: My journey began with a simple "Hello World" and has blossomed into a love affair with code, particularly in AI and cloud technologies.
-- 🔭 **Current Project**: Crafting an AI-powered **Urdu Conversational Chatbot** using Python and Transformers to help bridge language barriers.
+- 🔭 **Current Project**: Crafting an **AI Conversational Chatbot** using Python and Transformers to help bridge language barriers.
 - 🌱 **Learning Horizons**:
   - **Docker**: Streamlining development and deployment.
   - **Supabase**: Leveraging effortless PostgreSQL backends.
@@ -82,7 +82,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs786&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs786&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
