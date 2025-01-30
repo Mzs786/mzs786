@@ -46,15 +46,10 @@
 ---
 
 <h2 align="center">📈 GitHub Stats</h2>
-<br/>
-<div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=radical" />
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mzs786&theme=radical" />
-</div>
-<br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs786&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
