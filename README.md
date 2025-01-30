@@ -17,7 +17,6 @@
 - 🔭 I’m currently working on **an AI-powered Chatbot 🤖**
 - 🌱 I’m currently learning **Docker 🐳, Supabase 🔥, and AWS ☁️**
 - 👯 I’m looking to collaborate on **innovative web projects**
-- 💬 Ask me about **Node.js, React, Firebase, or anything [here](https://github.com/mzs786/mzs786/issues)**
 
 ---
 
@@ -36,26 +35,12 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">⚒️ Tech Stack & Tools</h2>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,mui" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,java" />
-</p>
-
-<h3 align="center">Databases</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-<h3 align="center">Tools & Cloud</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,javascript,typescript,python,java,c,flask,mongodb,mysql,firebase" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,figma,vscode,git,github,r,docker,aws" />
 </p>
 
 ---
