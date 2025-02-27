@@ -1,16 +1,14 @@
 <h1 align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mzs786.mzs786" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Md+Zubair+Saleem!;Full-Stack+Developer;AI+Enthusiast;Cloud+Aficionado ☁️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Md+Zubair+Saleem!;Software+Engineer;AI+Enthusiast;Cloud+Aficionado+☁️" />
 </h1>
 
-<h3 align="center">🚀 Bridging Code & Intelligence | Cloud Enthusiast | Open Source Contributor</h3>
+<h3 align="center">😎 Software Engineer | AI/ML | DevOps</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mzs786&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/mzs786.svg?style=for-the-badge&logo=appveyor">
 </div>
-
-<h3 align="center">😎 Software Engineer | AI/ML | DevOps</h3>
 
 ---
 
