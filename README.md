@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
       <img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
       <img src="https://img.shields.io/badge/Language-English%2C%20Hindi%2C%20Kannada-blue" />
-      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Md Zubair Saleem </i></h4>
+      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" </i></h4>
     </p>
 </div>
 
@@ -63,15 +63,13 @@
   <tr>
     <th>AI/ML</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=numpy" />
-      <img src="https://skillicons.dev/icons?i=pandas" />
-      <img src="https://skillicons.dev/icons?i=opencv" />
+      <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv" />
     </td>
   </tr>
   <tr>
     <th>Infrastructure</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,supabase,firebase" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase" />
     </td>
   </tr>
   <tr>
@@ -89,7 +87,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mzs786&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzs786&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzs786&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
