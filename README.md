@@ -3,23 +3,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Md+Zubair+Saleem!;Software+Engineer;AI+Enthusiast;Cloud+Aficionado+☁️" />
 </h1>
 
-<h3 align="center">😎 Software Engineer | AI/ML | DevOps</h3>
-
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=mzs786&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/mzs786.svg?style=for-the-badge&logo=appveyor">
-    <a href="mailto:mdzubairsaleem786@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/mdzubairsaleem">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:mdzubairsaleem786@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://mdzubairsaleem.com">
         <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=mzs786&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/mzs786.svg?style=for-the-badge&logo=appveyor">
 </div>
 
----
+<h3 align="center">😎 Software Engineer | AI/ML | DevOps</h3>
 
 <div align="center">
     <p>
@@ -27,7 +25,7 @@
       <img src="https://img.shields.io/badge/Hobby-Coding%2C%20Gaming-blue" />
       <img src="https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue" />
       <img src="https://img.shields.io/badge/Language-English%2C%20Hindi%2C%20Kannada-blue" />
-      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫"
+      <h4><i> "Turning complex ideas into innovative solutions with a touch of magic 💫" — Md Zubair Saleem </i></h4>
     </p>
 </div>
 
