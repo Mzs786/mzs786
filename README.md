@@ -60,7 +60,7 @@
   <tr>
     <th>Frontend</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,redux" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind" />
     </td>
   </tr>
   <tr>
@@ -72,7 +72,9 @@
   <tr>
     <th>AI/ML</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv" />
+      <img src="https://skillicons.dev/icons?i=numpy" />
+      <img src="https://skillicons.dev/icons?i=pandas" />
+      <img src="https://skillicons.dev/icons?i=opencv" />
     </td>
   </tr>
   <tr>
