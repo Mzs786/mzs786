@@ -8,6 +8,15 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mzs786&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/mzs786.svg?style=for-the-badge&logo=appveyor">
+    <a href="mailto:mdzubairsaleem786@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mdzubairsaleem">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://mdzubairsaleem.com">
+        <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
 </div>
 
 ---
@@ -35,22 +44,6 @@
 - 🎯 **Goals**: Aiming to revolutionize language learning apps and contribute to open-source AI projects.
 - 📚 **Beyond Code**: When I'm not coding, I'm exploring the intersection of technology and linguistics, and how AI can bring people closer.
 - 🌐 **Beyond Tech**: Amateur linguist exploring human-computer interaction paradigms
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:mdzubairsaleem786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mdzubairsaleem">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mdzubairsaleem.com">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
